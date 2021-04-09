@@ -2,7 +2,7 @@
 base64_cli_python is a cli tool that easily decodes base64 encoded multiple times.
 ## set up
 ```
-$ pip install git+https://github.com/haru0017/base64_cli_python
+$ pip install git+https://github.com/haru0017/multiple-base64
 ```
 ## encode
 ```
