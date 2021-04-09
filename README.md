@@ -1,5 +1,5 @@
-# base64_cli_python
-base64_cli_python is a cli tool that easily decodes base64 encoded multiple times.
+# Multiple Base64
+Multiple Base64 is a cli tool that easily decodes base64 encoded multiple times.
 ## set up
 ```
 $ pip install git+https://github.com/haru0017/multiple-base64
