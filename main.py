@@ -1,7 +1,6 @@
 import base64
 import re
 import argparse
-import sys
 
 def encode(n,text):
     while True:
@@ -30,7 +29,6 @@ def decode(text):
             break
 
 def main():
-    sys.dont_write_bytecode = True
     parser = argparse.ArgumentParser()
     parser.add_argument("-d","--decode",action="store_true")
     parser.add_argument("-e","--encode",action="store_true")
