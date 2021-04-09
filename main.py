@@ -1,6 +1,9 @@
 import base64
 import re
 import argparse
+import sys
+
+sys.dont_write_bytecode = True
 
 def encode(n,text):
     while True:
